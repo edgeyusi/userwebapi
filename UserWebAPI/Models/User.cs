@@ -13,6 +13,7 @@ namespace UserWebAPI.Models
             Addresses = new HashSet<Address>();
         }
 
+        //This is the application user.
         public int Id { get; set; }
 
         [Required(ErrorMessage = "UserName field is required")]
