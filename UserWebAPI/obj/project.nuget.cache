@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckTulPaqzDi9caYGK3VD7iYx6SnK7/hq1wp7O7tFL4V1JRHS1HzxbpbSNx+wx3EqoDUyaWZsxmq54jS5M7aYgA==",
+  "dgSpecHash": "TA3sN8rrrGDVwHNkycgoWr5P30NESEkaUCRRiP25TJ8sYukHeMOa1jYdkdkDugho+kLgG2bOBFC8W9vSYzGf+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EdgrenYusi\\source\\repos\\UserManagement\\UserWebAPI\\UserWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\EdgrenYusi\\source\\userwebapi\\UserWebAPI\\UserWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EdgrenYusi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\EdgrenYusi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

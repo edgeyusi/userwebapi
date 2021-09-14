@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EdgrenYusi\\source\\repos\\UserManagement\\UserWebAPI\\UserWebAPI.csproj": {}
+    "C:\\Users\\EdgrenYusi\\source\\userwebapi\\UserWebAPI\\UserWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EdgrenYusi\\source\\repos\\UserManagement\\UserWebAPI\\UserWebAPI.csproj": {
+    "C:\\Users\\EdgrenYusi\\source\\userwebapi\\UserWebAPI\\UserWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EdgrenYusi\\source\\repos\\UserManagement\\UserWebAPI\\UserWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\EdgrenYusi\\source\\userwebapi\\UserWebAPI\\UserWebAPI.csproj",
         "projectName": "UserWebAPI",
-        "projectPath": "C:\\Users\\EdgrenYusi\\source\\repos\\UserManagement\\UserWebAPI\\UserWebAPI.csproj",
+        "projectPath": "C:\\Users\\EdgrenYusi\\source\\userwebapi\\UserWebAPI\\UserWebAPI.csproj",
         "packagesPath": "C:\\Users\\EdgrenYusi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EdgrenYusi\\source\\repos\\UserManagement\\UserWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\EdgrenYusi\\source\\userwebapi\\UserWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

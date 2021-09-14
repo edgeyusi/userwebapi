@@ -9,6 +9,7 @@ namespace UserWebAPI.Controllers
     [Route("[controller]")]
     public class UserInfoController : ControllerBase
     {
+        //from home pc
         [HttpGet]
         public IEnumerable<VEAllUser> GetAllUsers()
         {
