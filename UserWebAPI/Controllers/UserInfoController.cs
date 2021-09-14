@@ -10,6 +10,7 @@ namespace UserWebAPI.Controllers
     public class UserInfoController : ControllerBase
     {
         //from home pc
+        //done from office pc
         [HttpGet]
         public IEnumerable<VEAllUser> GetAllUsers()
         {
